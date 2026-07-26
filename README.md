@@ -15,6 +15,14 @@
 
 <br/>
 
+<br>
+<div align="center">
+
+<img src="dashboard.png" width="240"/> <img src="account.png" width="240"/> <img src="deposit.png" width="240"/>     <img src="withdraw.png" width="240"/>
+
+
+</div>
+
 ## 📖 About The Project
 
 **Bank Account Management System** is a console-based Dart application built for **Week 2** of my internship at **Tech4Edges**. It simulates real banking operations — opening an account, depositing, withdrawing, and checking balances — through an interactive, menu-driven terminal interface.
