@@ -16,12 +16,9 @@
 <br/>
 
 <br>
-<div align="center">
-
-<img src="dashboard.png" width="240"/> <img src="account.png" width="240"/> <img src="deposit.png" width="240"/>     <img src="withdraw.png" width="240"/>
 
 
-</div>
+
 
 ## 📖 About The Project
 
